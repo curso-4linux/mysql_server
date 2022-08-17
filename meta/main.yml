@@ -16,4 +16,4 @@ galaxy_info:
   galaxy_tags:
     - mysql
 dependencies:
-  - roberto_farias.conf_base
+#  - roberto_farias.conf_base
